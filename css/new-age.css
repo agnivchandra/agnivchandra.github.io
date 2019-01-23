@@ -151,7 +151,7 @@ section h2 {
     color: #222222;
   }
   #mainNav.navbar-shrink .navbar-brand:hover, #mainNav.navbar-shrink .navbar-brand:focus {
-    color: #fdcc52;
+    color: #00FF7F;
   }
   #mainNav.navbar-shrink .navbar-nav > li > a,
   #mainNav.navbar-shrink .navbar-nav > li > a:focus {
@@ -159,7 +159,7 @@ section h2 {
   }
   #mainNav.navbar-shrink .navbar-nav > li > a:hover,
   #mainNav.navbar-shrink .navbar-nav > li > a:focus:hover {
-    color: #fdcc52;
+    color: #00FF7F;
   }
 }
 
@@ -464,9 +464,9 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 }
 
 .btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active {
-  color: white;
-  border-color: #fdcc52;
-  background-color: #fdcc52;
+  color: #222222;
+  border-color: #00FF7F;
+  background-color: #00FF7F;
 }
 
 .btn {
